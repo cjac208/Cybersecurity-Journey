@@ -16,12 +16,12 @@ Identify hidden web directiories using automated discovery tools to locate unaut
 
 ## Technical Proof
 ### 1. Enumeration Command & Results 
-![Gobuster Preparation & Command](01-preparation-command.png)
-![GObuster Results](02-results.png)
+![Gobuster Preparation & Command](img/01-preparation-command.png)
+![GObuster Results](img/02-results.png)
 
 ### 2. Unauthorized Access & PoC Transfer 
-![Unauthorized Access](03-unauthorized-access.png)
-![PoC Transfer](04-poc-transfer.png)
+![Unauthorized Access](img/03-unauthorized-access.png)
+![PoC Transfer](img/04-poc-transfer.png)
 
 ### 3. Room Completion
-![Completion](05-completion.png)
+![Completion](img/05-completion.png)
