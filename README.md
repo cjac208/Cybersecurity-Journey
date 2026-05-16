@@ -3,12 +3,12 @@ Targeting: SOC Analyst | Cybersecurity Engineer | Junior Penetration Tester
 Location: Marietta / Atlanta, GA
 
 ### Defensive and Engineering Project
-* [SOC/Engineer-Project-Wazuh](./SOC-Engineer-Project-Wazuh)
-    * Focus: SIEM deployment, agent configuration, and log monitoring.
+* [Advanced-Malware-Analysis-CyberChef](./Advanced-Malware-Analysis-CyberChef)
+    * Focus: Malware payload de-obfuscation, alert triage, and network Indicator of Compromise (IOC) extraction.
 
 ### Offensive Project
-* [PenTest-Project-Nessus](./PenTest-Project-Nessus)
-  * Focus: Vulnerability scanning, risk assessment, and reporting.
+* [NIST-Vulnerability-Assessment-Audit](./NIST-Vulnerability-Assessment-Audit)
+  * Focus: Identifying security vulnerabilities, risk prioritization, and technical roadmaps.
 
 ### Daily Learning & Labs
 * [TryHackMe-Labs](./TryHackMe-Labs)
