@@ -1,0 +1,4 @@
+192.168.1.50 - - [28/May/2026:10:00:01 +0000] "GET /index.html HTTP/1.1" 200 4325
+185.220.101.5 - - [28/May/2026:10:05:22 +0000] "GET /cgi-bin/main.py?file=/etc/passwd HTTP/1.1" 400 215
+45.33.32.156 - - [28/May/2026:10:06:45 +0000] "GET /about.html HTTP/1.1" 200 1240
+185.220.101.5 - - [28/May/2026:10:08:12 +0000] "POST /login HTTP/1.1" "id=1 UNION SELECT null, username, password FROM users" 403 152

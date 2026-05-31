@@ -1,0 +1,15 @@
+==================================================
+         AUTOMATED THREAT INTELLIGENCE REPORT     
+==================================================
+Generated Alerts Count: 2
+
+ALERT: Malicious Traffic Detected
+Attackign IP: 185.220.101.5
+Threat Intel Malicious Score: 0/100
+Triggered Log Line: 185.220.101.5 - - [28/May/2026:10:05:22 +0000] "GET /cgi-bin/main.py?file=/etc/passwd HTTP/1.1" 400 215
+--------------------------------------------------
+ALERT: Malicious Traffic Detected
+Attackign IP: 185.220.101.5
+Threat Intel Malicious Score: 0/100
+Triggered Log Line: 185.220.101.5 - - [28/May/2026:10:08:12 +0000] "POST /login HTTP/1.1" "id=1 UNION SELECT null, username, password FROM users" 403 152
+--------------------------------------------------

@@ -1,0 +1,38 @@
+{
+  "threat_intelligence": {
+    "generated_at": "2026-05-26T23:20:00Z",
+    "provider": "LocalMockThreatIntelAPI",
+    "observed_ips": {
+      "185.220.101.5": {
+        "network": "185.220.101.0/24",
+        "asn": "AS207713",
+        "country": "DE",
+        "reputation_scores": {
+          "harmless": 2,
+          "suspicious": 1,
+          "malicious": 14
+        },
+        "last_analysis_stats": {
+          "scanned_engines": 70,
+          "detected_engines": 15
+        },
+        "tags": ["tor-exit-node", "brute-forcer"]
+      },
+      "45.33.32.156": {
+        "network": "45.33.32.0/24",
+        "asn": "AS63949",
+        "country": "US",
+        "reputation_scores": {
+          "harmless": 65,
+          "suspicious": 0,
+          "malicious": 0
+        },
+        "last_analysis_stats": {
+          "scanned_engines": 70,
+          "detected_engines": 0
+        },
+        "tags": ["known-good-dns"]
+      }
+    }
+  }
+}
