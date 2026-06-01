@@ -2,10 +2,9 @@
 Targeting: SOC Analyst | Cybersecurity Engineer | Junior Penetration Tester
 Location: Marietta / Atlanta, GA
 
-## Security Engineering & Automation
-### [01_Security_Engineering_&_Automation](./01_Security_Engineering_&_Automation/)
-*   **Focus:** Engineering custom Python security tools, Regular Expression payload analysis, threat intelligence integration, and security reporting automation.
-*   **Featured Project:** [Automated Log Parser](./01_Security_Engineering_&_Automation/Automated_Log_Parser/) — Reduces manual log analysis time by 99% by programmatically cross-referencing server traffic with threat databases.
+### Security Engineering & Automation
+* [01_Security_Engineering_&_Automation](./01_Security_Engineering_&_Automation/Automated_Log_Parser/)
+  * Focus: Engineering custom Python security tools, Regular Expression payload analysis, threat intelligence integration, and security reporting automation.
 
 ### Defensive and Engineering Project
 * [Advanced-Malware-Analysis-CyberChef](./Advanced-Malware-Analysis-CyberChef)
