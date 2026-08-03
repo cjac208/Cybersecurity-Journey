@@ -1,5 +1,5 @@
 # Security Automation & Infrastructure Engineering Portfolio
-**Targeting:** Cybersecurity Engineer | Security Automation Engineer | DevSecOps Engineer | SOAR / Detection Engineer | Cloud Security Engineer
+**Targeting:** Targeting: Tier 1 SOC Analyst | Detection Engineer | Cybersecurity Engineer | Security Automation Engineer
 **Education:** M.S. in Cybersecurity 
 **Location:** Marietta / Atlanta, GA Metro (Open to Hybrid/ Remote)
 
